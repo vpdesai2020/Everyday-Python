@@ -1,9 +1,21 @@
 import os 
+import platform
   
-shutdown = input("Would you like to shutdown your computer ? (yes / no): ") 
+Ask = input("Would you like to shutdown your computer ? (yes / no): ") 
   
-if shutdown == 'no': 
+if Ask == 'no': 
     print("Okay :)")
     exit() 
 else: 
-    os.system("shutdown /s /t 1")
+    shutdown()
+    
+    
+def shutdown():
+    import os
+    import platform
+ 
+    if platform.system()=="Windows":
+        os.system("shutdown -s -t 0")
+ 
+    else:
+        os.system("shutdown -h now")
