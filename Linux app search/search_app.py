@@ -36,3 +36,5 @@ def f():
         res = txt.get() + " application NOT found"
         lbl.configure(text=res)
 window.mainloop()
+
+![image]
