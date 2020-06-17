@@ -9,3 +9,4 @@ The execution of lots of common everyday life tasks using python.
 - [QRCode reader](https://github.com/vpdesai2020/Everyday-Python/blob/master/QR%20Code%20reader/QRCode_reader.py)  -A Python script to read QRCode
 - [Shutdown your computer](https://github.com/vpdesai2020/Everyday-Python/blob/master/Shutdown%20the%20system/shutdown_the_system.py)  - Using simple python script to shutdown the system
 - [Image to PDF](https://github.com/vpdesai2020/Everyday-Python/blob/master/Image_to_PDF/Image_to_PDF.py) -Convert image to PDF file using python
+- [Linux Application Search Box](https://github.com/vpdesai2020/Everyday-Python/blob/master/Linux%20app%20search/search_app.py) - A Tool to search installed application in linux environment 
