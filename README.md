@@ -11,4 +11,5 @@ The execution of lots of common everyday life tasks using python.
 - [Image to PDF](https://github.com/vpdesai2020/Everyday-Python/blob/master/Image_to_PDF/Image_to_PDF.py) -Convert image to PDF file using python
 - [Linux Application Search Box](https://github.com/vpdesai2020/Everyday-Python/blob/master/Linux%20app%20search/search_app.py) - A Tool to search installed application in linux environment ![img](https://github.com/vpdesai2020/Everyday-Python/blob/master/Linux%20app%20search/ss_LTB.png)
 - [Search Current Stock Price](https://github.com/vpdesai2020/Everyday-Python/blob/master/Search%20stock%20price/stock_price_search.py) -A GUI for searching current stock price
+
 ![](https://github.com/vpdesai2020/Everyday-Python/blob/master/Search%20stock%20price/stock_price%20(1).png) ![](https://github.com/vpdesai2020/Everyday-Python/blob/master/Search%20stock%20price/stock_price%20(2).png)
