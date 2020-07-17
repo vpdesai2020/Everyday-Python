@@ -14,4 +14,6 @@ The execution of lots of common everyday life tasks using python.
 
 ![](https://github.com/vpdesai2020/Everyday-Python/blob/master/Search%20stock%20price/stock_price%20(1).png) ![](https://github.com/vpdesai2020/Everyday-Python/blob/master/Search%20stock%20price/stock_price%20(2).png)
 
-- [A Running Digital Clock](https://github.com/vpdesai2020/Everyday-Python/blob/master/Digital_Clock/run.py) - A running Digital Clock using python Tkinter ![](https://github.com/vpdesai2020/Everyday-Python/blob/master/Digital_Clock/dig_clock.png)
+- [A Running Digital Clock](https://github.com/vpdesai2020/Everyday-Python/blob/master/Digital_Clock/run.py) - A running Digital Clock using python Tkinter
+
+![](https://github.com/vpdesai2020/Everyday-Python/blob/master/Digital_Clock/dig_clock.png)
