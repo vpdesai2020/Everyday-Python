@@ -17,3 +17,7 @@ The execution of lots of common everyday life tasks using python.
 - [A Running Digital Clock](https://github.com/vpdesai2020/Everyday-Python/blob/master/Digital_Clock/run.py) - A running Digital Clock using python Tkinter
 
 ![](https://github.com/vpdesai2020/Everyday-Python/blob/master/Digital_Clock/dig_clock.png)
+
+- [Dictionary App](https://github.com/vpdesai2020/Everyday-Python/blob/master/Dictionary/Dictionary_App.py) - Building Python Dictionary App
+
+![](https://github.com/vpdesai2020/Everyday-Python/blob/master/Dictionary/Dic_ss.png)
