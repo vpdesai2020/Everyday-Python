@@ -21,3 +21,8 @@ The execution of lots of common everyday life tasks using python.
 - [Dictionary App](https://github.com/vpdesai2020/Everyday-Python/blob/master/Dictionary/Dictionary_App.py) - Building Python Dictionary App
 
 ![](https://github.com/vpdesai2020/Everyday-Python/blob/master/Dictionary/Dic_ss.png)
+
+- [BMI Calculator](https://github.com/vpdesai2020/Everyday-Python/tree/master/BMI_Calculator) - The Body Mass Index (BMI) Calculator app built using ExpressJS
+
+![](https://github.com/vpdesai2020/Everyday-Python/blob/master/BMI_Calculator/BMI%20(2).png)
+1[](https://github.com/vpdesai2020/Everyday-Python/blob/master/BMI_Calculator/BMI%20(1).png)
