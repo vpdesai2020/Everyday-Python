@@ -24,5 +24,4 @@ The execution of lots of common everyday life tasks using python.
 
 - [BMI Calculator](https://github.com/vpdesai2020/Everyday-Python/tree/master/BMI_Calculator) - The Body Mass Index (BMI) Calculator app built using ExpressJS
 
-![](https://github.com/vpdesai2020/Everyday-Python/blob/master/BMI_Calculator/BMI%20(2).png)
-1[](https://github.com/vpdesai2020/Everyday-Python/blob/master/BMI_Calculator/BMI%20(1).png)
+![](https://github.com/vpdesai2020/Everyday-Python/blob/master/BMI_Calculator/BMI%20(2).png) ![](https://github.com/vpdesai2020/Everyday-Python/blob/master/BMI_Calculator/BMI%20(1).png)
